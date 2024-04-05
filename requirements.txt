@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+st-annotated-text
+seaborn
+OpenAI
+scikit-learn
